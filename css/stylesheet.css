@@ -1,6 +1,10 @@
 body {
     background-color: #DFFFF9;
 }
+nav {
+    background-color: lightblue;
+    text-align: center;
+}
 h1 {
     color: rgb(152,35,100);
     text-align: center;
