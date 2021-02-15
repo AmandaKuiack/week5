@@ -3,4 +3,14 @@ body {
 }
 h1 {
     color: rgb(152,35,100);
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+}
+img {
+    float:left;
+}
+.bcitlogoschool {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
